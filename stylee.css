@@ -1,0 +1,59 @@
+body{
+    background:url("emjoiiiiiii.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    text-shadow: 3px 3px 2px rgb(80, 158, 232), -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+   
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
+#face
+{
+    height:250px;
+    width:250px;
+    background: yellow;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 15%;
+    box-shadow: 5px 5px 5px 2px black;
+}
+
+#eyes
+{
+    display: flex;
+    width: 250px;
+    justify-content: space-evenly;
+    padding-top: 55px;
+}
+
+#leye{
+    height: 50px;
+    width: 25px;
+    background: rgb(12, 12, 12);
+    border-radius: 50%;
+    box-shadow:5px 5px 5px black;
+}
+
+#reye{
+    height: 50px;
+    width: 25px;
+    background: rgb(16, 15, 15);
+    border-radius: 50%;
+    box-shadow:5px 5px 5px black;
+}
+
+#mouth{
+    height: 25px;
+    width: 75px;
+    background: white;
+    margin: auto;
+    margin-top: 50px;
+    border: 5px solid black;
+    border-bottom-left-radius: 267%;
+    border-bottom-right-radius: 267%;
+}
+
